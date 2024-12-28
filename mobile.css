@@ -126,7 +126,39 @@ button.btn2:hover{
 
 .home_image img:hover{
     transform: scale(1.15);
+
 }
+
+
+.contact-text{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.contact-text p1{
+    padding-top: 80px;
+    padding-left: 00px;
+    
+}
+
+.contact-text p1 i{
+    color: red;
+    padding: 10px 10px;
+    font-size: 24px;
+    border-radius: 10px;
+    border: 3px solid aqua;
+    background-color: aqua;
+    color: rgb(12, 3, 36);
+    transition: 0.5s ease-in-out;
+    letter-spacing: 1px;
+}
+
+.contact-text p1 i:hover{
+    background-color: rgb(12, 3, 36);
+    color: aqua;
+}
+
+
 
 /* ----------------------- Home End ------------------- */
 
